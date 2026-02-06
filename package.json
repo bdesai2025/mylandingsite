@@ -2,6 +2,7 @@
   "name": "my-static-landing",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://bdesai2025.github.io/mylandingsite",
   "type": "module",
   "scripts": {
     "dev": "vite",
